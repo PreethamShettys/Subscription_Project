@@ -1,1 +1,1 @@
-This was an Machine Learning project given by Internshala where I had to predict how many have been subscribed for the term deposit
+This was a Machine Learning project given by Internshala where I had to predict how many have been subscribed for the term deposit. Through the graphical representation of data after cleaning and categorizing the data, the predictions were made.
